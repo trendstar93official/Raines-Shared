@@ -1,0 +1,23 @@
+{"frames": {
+
+"bubble256.png":
+{
+	"frame": {"x":0,"y":0,"w":225,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":16,"w":225,"h":225},
+	"sourceSize": {"w":256,"h":256},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "masterSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":225,"h":225},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb377c73c0e6bcb3a9ef1a8bf4b73ecf:5c7b600d63dbaf46d3d71b797de547f6:68171ffd7b7e54d8e5d8444e6e890258$"
+}
+}

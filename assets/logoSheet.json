@@ -1,0 +1,324 @@
+{"frames": {
+
+" Raines_Explorer_clear.png":
+{
+	"frame": {"x":975,"y":896,"w":210,"h":211},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":147,"w":210,"h":211},
+	"sourceSize": {"w":500,"h":500}
+},
+"bubbleimg.png":
+{
+	"frame": {"x":527,"y":965,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"masterSheet.png":
+{
+	"frame": {"x":1612,"y":876,"w":113,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":113},
+	"sourceSize": {"w":113,"h":113}
+},
+"Raines__clear.png":
+{
+	"frame": {"x":419,"y":652,"w":293,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":135,"w":293,"h":237},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Air-Traffic-Controller.png":
+{
+	"frame": {"x":273,"y":332,"w":300,"h":235},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":131,"w":300,"h":235},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Ambadassador.png":
+{
+	"frame": {"x":1755,"y":641,"w":200,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":161,"w":200,"h":218},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Architect_white.png":
+{
+	"frame": {"x":1113,"y":598,"w":121,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":120,"w":121,"h":260},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Benefactress.png":
+{
+	"frame": {"x":1118,"y":287,"w":254,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":150,"w":254,"h":192},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Blitz-Defense.png":
+{
+	"frame": {"x":784,"y":314,"w":272,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":178,"w":272,"h":146},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Coach.png":
+{
+	"frame": {"x":1745,"y":879,"w":202,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":177,"w":202,"h":153},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Conductor_white.png":
+{
+	"frame": {"x":950,"y":314,"w":264,"h":148},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":176,"w":264,"h":148},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Consigliere.png":
+{
+	"frame": {"x":1254,"y":561,"w":226,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":127,"w":226,"h":249},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Cyborg_white.png":
+{
+	"frame": {"x":1758,"y":401,"w":187,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":140,"w":187,"h":220},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Diamond-Cutter.png":
+{
+	"frame": {"x":1243,"y":10,"w":249,"h":240},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":133,"w":249,"h":240},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Essentialist copy.png":
+{
+	"frame": {"x":896,"y":606,"w":270,"h":197},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":145,"w":270,"h":197},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Executor.png":
+{
+	"frame": {"x":1500,"y":544,"w":118,"h":235},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":136,"w":118,"h":235},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_First-Class-Attendent.png":
+{
+	"frame": {"x":1444,"y":879,"w":148,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":140,"w":148,"h":217},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Force-Multiplier_white.png":
+{
+	"frame": {"x":769,"y":10,"w":284,"h":260},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":103,"w":284,"h":260},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Ice-Cream-Cone.png":
+{
+	"frame": {"x":10,"y":1021,"w":82,"h":193},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":226,"w":82,"h":193},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Innovator.png":
+{
+	"frame": {"x":675,"y":965,"w":127,"h":280},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":74,"w":127,"h":280},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_MacGyver_white.png":
+{
+	"frame": {"x":1763,"y":179,"w":202,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":154,"w":202,"h":192},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Magician.png":
+{
+	"frame": {"x":403,"y":10,"w":248,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":98,"w":248,"h":294},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Man-Curtain.png":
+{
+	"frame": {"x":1503,"y":10,"w":240,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":135,"w":240,"h":242},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Matchmaker_white.png":
+{
+	"frame": {"x":671,"y":10,"w":287,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":218,"w":287,"h":78},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Musher.png":
+{
+	"frame": {"x":528,"y":324,"w":288,"h":236},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":141,"w":288,"h":236},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Paratrooper_clear.png":
+{
+	"frame": {"x":212,"y":681,"w":187,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":97,"w":187,"h":302},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Rebel-Cause.png":
+{
+	"frame": {"x":1049,"y":10,"w":174,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":121,"w":174,"h":257},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Rennovator.png":
+{
+	"frame": {"x":10,"y":691,"w":310,"h":182},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":176,"w":310,"h":182},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Rising-Tide.png":
+{
+	"frame": {"x":223,"y":1003,"w":284,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":246,"w":284,"h":102},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Sleuth.png":
+{
+	"frame": {"x":1546,"y":272,"w":189,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":156,"w":189,"h":192},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_St-Bernard.png":
+{
+	"frame": {"x":676,"y":632,"w":200,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":118,"w":200,"h":278},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Stage-Manager.png":
+{
+	"frame": {"x":211,"y":10,"w":302,"h":172},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":164,"w":302,"h":172},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Story-Doer_white.png":
+{
+	"frame": {"x":1763,"y":10,"w":149,"h":193},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":148,"w":149,"h":193},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Swiss-Army-Knife.png":
+{
+	"frame": {"x":1330,"y":279,"w":245,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":151,"w":245,"h":196},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Tastemaker.png":
+{
+	"frame": {"x":1500,"y":682,"w":174,"h":212},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":158,"w":174,"h":212},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Thresher.png":
+{
+	"frame": {"x":10,"y":10,"w":181,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":160,"y":85,"w":181,"h":328},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Tigger.png":
+{
+	"frame": {"x":114,"y":358,"w":139,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":99,"w":139,"h":303},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Transport-Helicopter.png":
+{
+	"frame": {"x":10,"y":358,"w":313,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":212,"w":313,"h":84},
+	"sourceSize": {"w":500,"h":500}
+},
+"Raines_Watson.png":
+{
+	"frame": {"x":1206,"y":878,"w":228,"h":218},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":123,"w":228,"h":218},
+	"sourceSize": {"w":500,"h":500}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logoSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1966,"h":1116},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ee16266e23d43ba2ccbf7f9c6aeb0b6:7809b39c2fcf696201a185509d7d2945:53dc86a58dea511156e030cc8c937713$"
+}
+}
